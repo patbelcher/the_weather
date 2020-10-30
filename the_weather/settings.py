@@ -25,7 +25,7 @@ SECRET_KEY = 'b7e%nt@!f)4p$(7q-+reks$$#%$t)vy%!f1_dk+rs4joz5btbt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['patbelcher.pythonanywhere.com']
 
 
 # Application definition
